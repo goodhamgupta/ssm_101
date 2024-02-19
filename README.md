@@ -43,3 +43,7 @@ The following is an incomplete list of resources to learn more about SSMs and Ma
 - [SSM Official Implementations](https://github.com/state-spaces/)
 - [mamba](https://github.com/state-spaces/mamba)
 - [mamba-minimal](https://github.com/johnma2006/mamba-minimal)
+
+## Contact
+
+I'm always looking to connect with like-minded individuals and discuss and work on ideas. Do reach out via [LinkedIn](https://www.linkedin.com/in/shubhamgupta2208/?originalSubdomain=sg) or via [Email](mailto:shubhamg2208@live.com)
