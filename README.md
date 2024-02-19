@@ -41,8 +41,10 @@ The following is an incomplete list of resources to learn more about SSMs and Ma
 ## Implementations
 
 - [SSM Official Implementations](https://github.com/state-spaces/)
+- [Mamba: The Hard Way, Sasha Rush](https://srush.github.io/annotated-mamba/hard.html): Arguably the best resource to understand Mamba via code.
 - [mamba](https://github.com/state-spaces/mamba)
 - [mamba-minimal](https://github.com/johnma2006/mamba-minimal)
+
 
 ## Contact
 
