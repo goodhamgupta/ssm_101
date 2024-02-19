@@ -12,6 +12,7 @@ The following is an incomplete list of resources to learn more about SSMs and Ma
 - [The Annotated S4](https://srush.github.io/annotated-s4/)
 - [Awesome State Space Models](https://github.com/radarFudan/Awesome-state-space-models)
 - [Albert Gu's thesis on SSMs](https://searchworks.stanford.edu/view/14784021)
+- [Maarten Grootendorst's blog](https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state)
 - Youtube Videos:
   - [Yannick Kilcher](https://www.youtube.com/watch?v=9dSkvxS2EB0)
   - [Do we need Attention?](https://www.youtube.com/watch?v=dKJEpOtVgXc&t=585s)
